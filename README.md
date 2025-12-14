@@ -5,11 +5,24 @@ Self-taught programmer learning and building projects for over 4 years.
 Open source enthusiast | Always exploring new technologies 🚀
 
 ### 🔧 Tech Stack & Tools
+
+<!-- Frontend / Web -->
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+
+<!-- Backend / Node.js -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white&style=flat-square)
+![Elysia](https://img.shields.io/badge/Elysia-8B5CF6?logo=elysia&logoColor=white&style=flat-square)
+![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white&style=flat-square)
+
+<!-- Rust Ecosystem -->
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)
+![Axum](https://img.shields.io/badge/Axum-000000?logo=rust&logoColor=white&style=flat-square)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white&style=flat-square)
 
 ### 📊 GitHub Stats
 
