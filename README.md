@@ -3,6 +3,7 @@
 **TypeScript & Rust developer** 🦀🟦  
 Self-taught programmer learning and building projects for over 4 years.  
 Open source enthusiast | Always exploring new technologies 🚀
+
 ### 🔧 Tech Stack & Tools
 
 #### Core Languages
@@ -39,6 +40,13 @@ Open source enthusiast | Always exploring new technologies 🚀
 ![Tokio](https://img.shields.io/badge/Tokio-000000?logo=tokio&logoColor=white&style=flat-square)
 ![Axum](https://img.shields.io/badge/Axum-000000?logo=rust&logoColor=white&style=flat-square)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white&style=flat-square)
+![Serde](https://img.shields.io/badge/Serde-B7410E?logo=rust&logoColor=white&style=flat-square)
+![SQLx](https://img.shields.io/badge/SQLx-000000?logo=rust&logoColor=white&style=flat-square)
+![Clap](https://img.shields.io/badge/Clap-000000?logo=rust&logoColor=white&style=flat-square)
+![Tracing](https://img.shields.io/badge/Tracing-000000?logo=rust&logoColor=white&style=flat-square)
+![Tower](https://img.shields.io/badge/Tower-000000?logo=rust&logoColor=white&style=flat-square)
+![anyhow](https://img.shields.io/badge/anyhow-000000?logo=rust&logoColor=white&style=flat-square)
+![thiserror](https://img.shields.io/badge/thiserror-000000?logo=rust&logoColor=white&style=flat-square)
 
 #### Tools & DevOps
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?logo=turborepo&logoColor=white&style=flat-square)
