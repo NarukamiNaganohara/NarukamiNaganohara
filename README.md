@@ -8,8 +8,8 @@ Open source enthusiast | Always exploring new technologies 🚀
 
 #### Core Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square)
 
 #### Rust Ecosystem
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white&style=flat-square)
@@ -21,6 +21,12 @@ Open source enthusiast | Always exploring new technologies 🚀
 ![anyhow](https://img.shields.io/badge/anyhow-000000?logo=rust&logoColor=white&style=flat-square)
 ![thiserror](https://img.shields.io/badge/thiserror-000000?logo=rust&logoColor=white&style=flat-square)
 ![Serde](https://img.shields.io/badge/Serde-B7410E?logo=rust&logoColor=white&style=flat-square)
+
+#### Go Ecosystem
+![Gin](https://img.shields.io/badge/Gin-00A8CC?logo=gin&logoColor=white&style=flat-square)
+![Fiber](https://img.shields.io/badge/Fiber-000000?logo=fiber&logoColor=white&style=flat-square)
+![Air](https://img.shields.io/badge/Air-000000?logo=air&logoColor=white&style=flat-square)
+![sqlc](https://img.shields.io/badge/sqlc-336791?logo=sqlc&logoColor=white&style=flat-square)
 
 #### Frontend / Fullstack (TypeScript)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
@@ -35,6 +41,7 @@ Open source enthusiast | Always exploring new technologies 🚀
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=white&style=flat-square)
 ![REST API](https://img.shields.io/badge/REST_API-85EA2D?logo=swagger&logoColor=173647&style=flat-square)
 ![gRPC](https://img.shields.io/badge/gRPC-000000?logo=grpc&logoColor=white&style=flat-square)
+![Protobuf](https://img.shields.io/badge/Protobuf-4C4C4C?logo=protobuf&logoColor=white&style=flat-square)
 
 #### Database & ORM
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-CFFF95?logo=drizzle&logoColor=black&style=flat-square)
