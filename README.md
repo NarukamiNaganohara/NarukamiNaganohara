@@ -10,7 +10,6 @@ Open source enthusiast | Always exploring new technologies 🚀
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
-<!-- Добавь/убери свои технологии -->
 
 ### 📊 GitHub Stats
 
@@ -32,9 +31,5 @@ Open source enthusiast | Always exploring new technologies 🚀
 
 ### 👀 Profile Views
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NarukamiNaganohara.NarukamiNaganohara)
-
-### 📫 Connect with me
-- Telegram: @твой_тег (замени на свой, если есть)
-- Email: твоя_почта@example.com (если хочешь указать)
 
 Thanks for visiting! ⚡🦀
